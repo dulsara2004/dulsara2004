@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is tilusha and I'm a student, from Sri Lanka</h2>
+<h2 align="left">Hi 👋! My name is dulsara and I'm a student, from Sri Lanka</h2>
 
 ###
 
